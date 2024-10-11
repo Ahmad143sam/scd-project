@@ -16,5 +16,6 @@ public class DictionaryManager {
     public List<WordDTO> getAllWords() {
         return wordDAO.getAllWords();
     }
+    //this part of the crud operations
 
 }
